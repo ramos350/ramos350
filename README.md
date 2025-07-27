@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **[Lormas Laboratory](https://discord.lormas.net)**  
+- 🔭 I’m currently working on **[Lormas Studio](https://discord.lormas.studio)**  
 - 🌱 I’m learning **application development & embeded development**  
 - ⚡ Fun Fact: I very enjoy **listening music** 😎  
 
