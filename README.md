@@ -17,10 +17,6 @@
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=ramos350&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/ramos350/ramos350/main/assets/IMG_9054.jpg" width="120" height="120" style="border-radius: 50%; border: 3px solid #F7DF1E; box-shadow: 0 0 15px rgba(247, 223, 30, 0.3); float: left; margin-right: 20px;" alt="Ramos Avatar" />
-</div>
-
 🎓 **17-year-old Computer Science enthusiast** from Vietnam 🇻🇳  
 💻 **Full-stack developer** with a passion for creating innovative solutions  
 🎨 **Creative designer** who loves bringing ideas to life through code and art  
